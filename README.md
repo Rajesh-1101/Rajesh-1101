@@ -34,7 +34,7 @@
 
 <h1></h1>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1101&show_icons=true&locale=en&theme=radical" alt="rajesh-1101" height="358"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajesh-1101&show_icons=true&locale=en&theme=radical" alt="rajesh-1101" height="358"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-1101&show_icons=true&locale=en&theme=radical" alt="rajesh-1101" width="420"/>
 
