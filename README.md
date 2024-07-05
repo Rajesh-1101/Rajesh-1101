@@ -15,7 +15,7 @@
 
 <div align="center">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajesh-1101&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-1101" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajesh-1101&label=Profile%20views&color=0e75b6&style=flat" alt="rajesh-1101" /> </p>
 
 📫 Reach out to me at **rajeshzurange2572@gmail.com**
 
